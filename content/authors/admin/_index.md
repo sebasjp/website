@@ -2,19 +2,15 @@
 # Display name
 name: Sebastian Jimenez Parra
 
-# Username (this should match the folder name)
-authors:
-- admin
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: Data Scientist
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: ""
+- name: "ADL Digital Lab"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
