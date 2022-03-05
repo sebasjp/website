@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sebastian Jimenez Parra
+tittle: Sebastian Jimenez Parra
 
 # Is this the primary user of the site?
 superuser: true
@@ -16,12 +16,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I'm statistician. Currently, I'm working as Data Scientist for ADL Digital Lab. I have worked in banking and retail industries.
 
+# Interests to show in About widget
 interests:
 - Statistics
 - Bayesian Statistics
 - Machine Learning
 - Democratization of knowledge
 
+# Education to show in About widget
 education:
   courses:
   - course: Statistics
@@ -36,9 +38,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "@".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/sjimenezp/
