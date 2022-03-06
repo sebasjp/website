@@ -30,6 +30,21 @@ experience:
     date_end: ''
     description: |2-
         * Joined the Data Science team working on retention models.
+  - title: "Data Scientist"
+    company: "iFood"
+    company_url: 'https://www.ifood.com.co/'
+    location: Colombia
+    date_start: '2020-11-01'
+    date_end: '2021-08-31'
+    description: |2-
+        Develop AI products that help to improve the logistics business. Tools: Python, Spark, DataBricks, Sagemaker, Docker, Airflow.
+
+        * I improved the ETA model, testing different features in the feature engineering phase.
+        * I developed a segmentation that helped to increase the NPS improving the rider's earn.
+        * I developed a forecast for the groceries business, using heuristic methods.
+        * I built different scrapping tools.
+        * I carried out A/B test to detect opportunities of AI applications.
+        * Work in collaboration with iFood Brasil.   
         
 design:
   columns: '2'
