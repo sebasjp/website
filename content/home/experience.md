@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: "Data Scientist"
     company: "ADL Digital Lab"
-    company_url: ''
+    company_url: 'https://www.adldigitallab.com/'
     location: Colombia
     date_start: '2021-09-01'
     date_end: ''
@@ -44,7 +44,19 @@ experience:
         * I developed a forecast for the groceries business, using heuristic methods.
         * I built different scrapping tools.
         * I carried out A/B test to detect opportunities of AI applications.
-        * Work in collaboration with iFood Brasil.   
+        * Work in collaboration with iFood Brasil.
+  - title: "Data Scientist"
+    company: "Banco de Occidente"
+    company_url: 'https://www.bancodeoccidente.com.co/'
+    location: Colombia
+    date_start: '2019-02-01'
+    date_end: '2020-10-31'
+    description: |2-
+        Realize complex analysis of the clients through advanced analytic models to identify actions that allow to achieve the bank's objectives.
+        * I developed a clients' microsegmentation, that allowed lead better strategies to the commercial area.
+        * I improved the Next Best Action model, using machine learning metodologies.
+        * I built a churn model that helped to reduce the churn rate.
+        * I developed a prescriptive model that allowed lead strategies when the pandemic started.
         
 design:
   columns: '2'
