@@ -1,6 +1,6 @@
 ---
 title: Octopus ML
-summary: The goal of this project is to implement a machine learning workflow.
+summary: The goal of this project is to implement a machine learning workflow to increase the efficiency in supervised learning specifically in binary classification problems.
 tags:
 - Machine Learning
 date: "2021-07-01T00:00:00Z"
