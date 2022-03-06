@@ -1,6 +1,6 @@
 ---
 # Display name
-tittle: Sebastian Jimenez Parra
+title: Sebastian Jimenez Parra
 
 # Is this the primary user of the site?
 superuser: true
@@ -8,25 +8,20 @@ superuser: true
 # Role/position
 role: Data Scientist
 
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: "ADL Digital Lab"
-  url: ""
-
 # Short bio (displayed in user profile at end of posts)
 bio: I'm statistician. Currently, I'm working as Data Scientist for ADL Digital Lab. I have worked in banking and retail industries.
 
 # Interests to show in About widget
 interests:
-- Statistics
 - Bayesian Statistics
 - Machine Learning
+- Software engineering
 - Democratization of knowledge
 
 # Education to show in About widget
 education:
   courses:
-  - course: Statistics
+  - course: BS in Statistics
     institution: Universidad del Valle
     year: 2017
 
@@ -35,9 +30,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "@".
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/sjimenezp/
@@ -60,6 +52,8 @@ email: ""
 # - Visitors
 ---
 
-I'm statistician.
+I'm statistician who loves solve problems using data.
+
+Currently, I'm working as Data Scientist, I have developed differents models like segmentation, prioritization, next best action and churn clients, using differents approach statistics and machine learning models.
 
 I'm passionate about democratizing knowledge.
